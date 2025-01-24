@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨‍💻 Developer |📹 Video Editor
 --------------------------------
 
-💡 Passionate about: | Programming | Video editing | Creating impactful solutions 📍 Currently researching intelligent systems for smart farming. 🚀 Always learning: Exploring new technologies and sharpening coding skills. 🎯 Goal: To build tools and systems that make life better for everyone. 💬 Let’s connect and collaborate! 📫 Reach me at: Jponpimai@gmail.com
+💡 Passionate about: | Programming | Video editing | Creating impactful solutions 
+📍 Currently researching intelligent systems for smart farming. 
+🚀 Always learning: Exploring new technologies and sharpening coding skills. 
+🎯 Goal: To build tools and systems that make life better for everyone. 
+
+💬 Let’s connect and collaborate! 
+📫 Reach me at: Jponpimai@gmail.com
 
 * 🌍  I'm based in Nakhon Ratchasima, Thailand.
 * ✉️  You can contact me at [Jponpimai@gmail.com](mailto:Jponpimai@gmail.com)

@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirakit Phonphimai
 ==========================================================================================================================================
 
-👨‍💻 Developer |📹 Video Editor
---------------------------------
+👨‍💻 Front-End Developer & Full-Stack Developer |📹 Video Editor
+----------------------------------------------------------------
 
 💡 Passionate about: | Programming | Video editing | Creating impactful solutions 
 📍 Currently researching intelligent systems for smart farming. 
